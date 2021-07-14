@@ -1,6 +1,6 @@
 build/
 dist/
-ZPsycopgDA.egg-info/
+Products.ZPsycopgDA.egg-info/
 .DS_Store
 *.pyc
 *~
